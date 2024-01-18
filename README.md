@@ -10,6 +10,10 @@ https://github.com/bitnami/containers/tree/main/bitnami/phpmyadmin
 Run docker as user:
 sudo usermod -aG docker $USER
 
+Create Project Folder:
+mkdir MyProject && cd MyProject
+create or copy the docker-compose.yml here
+
 install: sudo docker-compose up (leave this shell open)
 
 Enable and start Docker:
