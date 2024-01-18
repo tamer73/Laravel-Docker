@@ -44,3 +44,5 @@ Url: http://0.0.0.0:8000
 Access phpMyAdmin:
 http://127.0.0.1
 
+**things to do next:**
+[permission](https://laravel-news.com/jetstream-spatie-permission)https://laravel-news.com/jetstream-spatie-permission
