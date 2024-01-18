@@ -46,3 +46,4 @@ http://127.0.0.1
 
 **things to do next:**
 [permission](https://laravel-news.com/jetstream-spatie-permission)https://laravel-news.com/jetstream-spatie-permission
+marker at: Full CRUD: Buttons and Forms
