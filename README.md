@@ -7,7 +7,7 @@ Sources:
 https://github.com/bitnami/containers/tree/main/bitnami/laravel
 https://github.com/bitnami/containers/tree/main/bitnami/phpmyadmin
 
-Run docker as user:
+*Run docker as user:*
 sudo usermod -aG docker $USER
 
 Create Project Folder:
