@@ -16,6 +16,7 @@ create or copy the docker-compose.yml here
 
 **install:** 
 > sudo docker-compose up
+
 (leave this shell open)
 
 **Enable and start Docker:**
@@ -28,9 +29,13 @@ Url: http://0.0.0.0:8000
 
 **Install Jetstream:**
 > composer require laravel/jetstream
+> 
 > php artisan jetstream:install livewire --teams
+>
 > npm install
+>
 > npm run build
+>
 > php artisan migrate
 
 **Source:** https://jetstream.laravel.com/installation.html
