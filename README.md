@@ -28,7 +28,7 @@ create or copy the docker-compose.yml here
 > sudo docker-compose exec myapp bash  
 Url: http://0.0.0.0:8000
 
-*** Access phpMyAdmin http://127.0.0.1 and delete all tables ***
+**Access phpMyAdmin http://127.0.0.1 and delete all tables**
 
 **Install Jetstream:**
 > composer require laravel/jetstream
